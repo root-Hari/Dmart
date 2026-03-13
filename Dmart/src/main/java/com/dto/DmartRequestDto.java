@@ -14,5 +14,6 @@ public class DmartRequestDto
 	private String pincode;
 	
 	private String state;
+	//formated dto
 
 }
